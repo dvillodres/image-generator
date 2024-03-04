@@ -1,0 +1,20 @@
+{
+    "name": "dvillodres/image-generator",
+    "description": "Generate images from images and text.",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "php": "^8.1",
+        "ext-iconv": "*",
+        "ext-gd": "*",
+        "ext-curl": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "DVillodres\\ImageGenerator\\": "src/"
+        }
+    },
+    "files": ["fonts/Roboto-Medium.ttf"]
+}
+
