@@ -4,7 +4,11 @@
 images by overlaying text onto an image using a provided image URL and 
 text.
 
-## Installation
+---
+
+## Usage
+
+### Installation
 
 You can install the package via Composer. Run the following command:
 
@@ -12,7 +16,7 @@ You can install the package via Composer. Run the following command:
 composer require dvillodres/image-generator
 ```
 
-## Code example
+### Code example
 
 ```
 use DVillodres\ImageGenerator\Image;
@@ -30,10 +34,15 @@ Image::create(
 );
 ```
 
+---
+
 ## Contributing
+
 Contributions are welcome! Please feel free to submit a pull request.
 
-# Acknowledgements
+---
+
+## Acknowledgements
 
 I want to extend my heartfelt gratitude to [Dantsu](https://github.com/DantSu) for his invaluable contribution to the world of development, particularly for his outstanding package [php-image-editor](https://github.com/DantSu/php-image-editor). Before creating this project, I relied on his package as an essential part of our workflow.
 
