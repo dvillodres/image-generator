@@ -1,4 +1,4 @@
-# image-generator
+# dvillodres/image-generator
 
 **image-generator** is a Composer package that allows you to generate 
 images by overlaying text onto an image using a provided image URL and 
