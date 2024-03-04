@@ -2,7 +2,8 @@
     "name": "dvillodres/image-generator",
     "description": "Generate images from images and text.",
     "type": "library",
-    "version": "1.0.0",
+    "version": "v1.0.0",
+    "license": "MIT",
     "require": {
         "php": "^8.1",
         "ext-iconv": "*",
